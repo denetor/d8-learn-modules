@@ -1,0 +1,20 @@
+name: Lorem Ipsum
+description: 'Customizable Lorem Ipsum generator'
+package: Custom
+
+type: module
+core: 8.x
+
+configure: loremipsum.form
+
+#dependencies:
+#  - datetime:datetime
+#  - link:link
+#  - drupal:views
+
+#test_dependencies:
+# - drupal:image
+
+#configure: hello_world.settings
+
+#hidden: true
