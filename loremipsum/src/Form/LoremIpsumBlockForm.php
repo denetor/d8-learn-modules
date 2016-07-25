@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @file
  * Contains \Drupal\loremipsum\Form\BlockFormController
@@ -23,6 +22,8 @@ class LoremIpsumBlockForm extends FormBase {
         return 'loremipsum_block_form';
     }
 
+    
+    
     /**
      * {@inheritdoc}
      * Lorem ipsum generator block.
